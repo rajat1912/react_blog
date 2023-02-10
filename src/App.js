@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="React JS Blog" />
+      <Header title="Tech It easy" />
       <Nav />
       <Routes>
         <Route exact path='/' element={
